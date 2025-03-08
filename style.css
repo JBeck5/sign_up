@@ -1,0 +1,30 @@
+body {
+    display: flex;
+}
+
+.left-section {
+    background: url(./images/plant_photo.avif);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.logo-container {
+    display: flex;
+    align-items: center;
+}
+
+.form-container {
+    display: flex;
+}
+.column {
+    display: flex;
+    flex-direction: column;
+}
+
+.form-section {
+    display: flex;
+    flex-direction: column;
+}
